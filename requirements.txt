@@ -1,0 +1,9 @@
+retry
+openai
+Flask
+pytz
+tavily-python
+pymongo
+scipy
+pinecone-client
+requests
